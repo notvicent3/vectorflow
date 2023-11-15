@@ -57,7 +57,7 @@ tqdm==4.65.0
 typing_extensions==4.7.1
 tzdata==2023.3
 ujson==5.8.0
-urllib3==1.26.16
+urllib3==1.26.18
 validators==0.21.0
 weaviate-client==3.22.1
 yarl==1.9.2
