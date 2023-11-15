@@ -75,6 +75,6 @@ ujson==5.8.0
 urllib3==1.26.16
 validators==0.22.0
 weaviate-client==3.24.1
-Werkzeug==2.3.7
+Werkzeug==2.3.8
 yarl==1.9.2
 zipp==3.17.0
